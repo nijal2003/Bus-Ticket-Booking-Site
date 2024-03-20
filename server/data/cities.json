@@ -1,0 +1,107 @@
+[
+  {
+      "id": "0",
+      "ville": "Ahmedabad",
+      "region": "5"
+  },
+  {
+      "id": "1",
+      "ville": "Surat",
+      "region": "9"
+  },
+  {
+      "id": "2",
+      "ville": "Vadodara",
+      "region": "8"
+  },
+  {
+      "id": "3",
+      "ville": "Rajkot",
+      "region": "5"
+  },
+  {
+      "id": "4",
+      "ville": "Bhavnagar",
+      "region": "9"
+  },
+  {
+      "id": "5",
+      "ville": "Gandhinagar",
+      "region": "3"
+  },
+  {
+      "id": "6",
+      "ville": "Jamnagar",
+      "region": "2"
+  },
+  {
+      "id": "7",
+      "ville": "Junagadh",
+      "region": "4"
+  },
+  {
+      "id": "8",
+      "ville": "Anand",
+      "region": "3"
+  },
+  {
+      "id": "9",
+      "ville": "Bharuch",
+      "region": "7"
+  },
+  {
+      "id": "10",
+      "ville": "Nadiad‎",
+      "region": "1"
+  },
+  {
+      "id": "11",
+      "ville": "Navsari",
+      "region": "1"
+  },
+  {
+      "id": "12",
+      "ville": "Morbi",
+      "region": "9"
+  },
+  {
+      "id": "13",
+      "ville": "Ankleshwar",
+      "region": "2"
+  },
+  {
+      "id": "14",
+      "ville": "Godhra‎",
+      "region": "3"
+  },
+  {
+      "id": "15",
+      "ville": "Porbandar",
+      "region": "2"
+  },
+  {
+      "id": "16",
+      "ville": "Surendranagar‎",
+      "region": "1"
+  },
+  {
+      "id": "17",
+      "ville": "Gandhidham",
+      "region": "8"
+  },
+  {
+      "id": "18",
+      "ville": "Veraval",
+      "region": "5"
+  },
+  {
+      "id": "19",
+      "ville": "Navsari",
+      "region": "7"
+  },
+  {
+    "id": "20",
+    "ville": "Mehsana‎",
+    "region": "1"
+  }
+]
